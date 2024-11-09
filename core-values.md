@@ -1,5 +1,7 @@
 # Ticha – Core Values
 
+Last updated November 8, 2024
+
 ## Respect
 > We center Zapotec needs, knowledge, and culture while engaging technology, people, and historical materials with care. 
 
