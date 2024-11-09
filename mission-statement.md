@@ -1,5 +1,7 @@
 # Ticha — Mission Statement
 
+Last updated November 8, 2024
+
 Ticha (pronounced [ˈti.tʃə] from the Colonial Valley Zapotec word for 'word,'  'language,' or 'text') is an international effort to document and promote Zapotec languages and knowledge through workshops, events, and online resources provided to the public at no cost. A Zapotec Advisory Board guides the priorities of our diverse team, which includes academics, librarians, technologists, and undergraduate and graduate students with expertise in linguistics, history, digital scholarship, and Zapotec language and culture. We make Zapotec-language dictionaries, pedagogical materials, and historical documents available to diverse stake-holders, while centering Zapotec audiences.
 
 Ticha (pronunciado [ˈti.tʃə] es una palabra en zapoteco colonial del valle que significa 'palabra,' 'lenguaje,' o 'texto') es un esfuerzo internacional que documenta y promueve las lenguas zapotecas y el conocimiento zapoteco a través de talleres, eventos y recursos digitales disponibles al público sin costo alguno. Un comité consultivo zapoteco guía las prioridades de nuestro equipo diverso, que incluye académicos, bibliotecarios, tecnólogos y estudiantes de pregrado y posgrado con experiencia en lingüística, historia, investigación digital y lengua y cultura zapotecas. Ponemos a disposición de diversos interesados ​​documentos históricos, diccionarios y otros materiales pedagógicos en lengua zapoteca. Nuestro enfoque y esfuerzos apoyan al público zapoteco.
